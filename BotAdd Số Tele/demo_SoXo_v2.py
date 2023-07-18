@@ -132,7 +132,7 @@ def load_SoXo():
 def main() -> None:
     """Start the bot."""
     # Create the Updater and pass it your bot's token.
-    updater = Updater("6009347369:AAHvxfS2Eh4nfCjopdWiyqbNFa5Jv0P9YfY")
+    updater = Updater("API TeleGram ")
 
     # Get the dispatcher to register handlers
     dispatcher = updater.dispatcher
